@@ -1873,7 +1873,7 @@ select.form-control-lg:not([size]):not([multiple]) {
 .form-control.is-valid,
 .was-validated .custom-select:valid,
 .was-validated .form-control:valid {
-    border-color: #28a745
+    border-color: #2898a7
 }
 
 .custom-select.is-valid:focus,
@@ -1896,7 +1896,7 @@ select.form-control-lg:not([size]):not([multiple]) {
 
 .form-check-input.is-valid+.form-check-label,
 .was-validated .form-check-input:valid+.form-check-label {
-    color: #28a745
+    color: #87CEFA
 }
 
 .custom-control-input.is-valid~.custom-control-indicator,
@@ -1906,12 +1906,12 @@ select.form-control-lg:not([size]):not([multiple]) {
 
 .custom-control-input.is-valid~.custom-control-description,
 .was-validated .custom-control-input:valid~.custom-control-description {
-    color: #28a745
+    color: #2898a7
 }
 
 .custom-file-input.is-valid~.custom-file-control,
 .was-validated .custom-file-input:valid~.custom-file-control {
-    border-color: #28a745
+    border-color: #2898a7
 }
 
 .custom-file-input.is-valid~.custom-file-control::before,
@@ -2176,8 +2176,8 @@ fieldset[disabled] a.btn {
 
 .btn-success {
     color: #fff;
-    background-color: #28a745;
-    border-color: #28a745
+    background-color: #2898a7;
+    border-color: #2898a7
 }
 
 .btn-success:hover {
@@ -2193,8 +2193,8 @@ fieldset[disabled] a.btn {
 
 .btn-success.disabled,
 .btn-success:disabled {
-    background-color: #28a745;
-    border-color: #28a745
+    background-color: #2898a7;
+    border-color: #2898a7
 }
 
 .btn-success.active,
@@ -2428,13 +2428,13 @@ fieldset[disabled] a.btn {
     color: #28a745;
     background-color: transparent;
     background-image: none;
-    border-color: #28a745
+    border-color: #2898a7
 }
 
 .btn-outline-success:hover {
     color: #fff;
-    background-color: #28a745;
-    border-color: #28a745
+    background-color: #2898a7;
+    border-color: #2898a7
 }
 
 .btn-outline-success.focus,
@@ -2444,7 +2444,7 @@ fieldset[disabled] a.btn {
 
 .btn-outline-success.disabled,
 .btn-outline-success:disabled {
-    color: #28a745;
+    color: #2898a7;
     background-color: transparent
 }
 
@@ -2452,8 +2452,8 @@ fieldset[disabled] a.btn {
 .btn-outline-success:active,
 .show>.btn-outline-success.dropdown-toggle {
     color: #fff;
-    background-color: #28a745;
-    border-color: #28a745
+    background-color: #2898a7;
+    border-color: #2898a7
 }
 
 .btn-outline-info {
@@ -4219,7 +4219,7 @@ tbody.collapse.show {
 
 .badge-success {
     color: #fff;
-    background-color: #28a745
+    background-color: #2898a7
 }
 
 .badge-success[href]:focus,
