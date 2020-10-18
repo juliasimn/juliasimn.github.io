@@ -3145,11 +3145,11 @@ body {
 }
 
 .btn-facebook {
-  color: #3b5998;
+  color: #000000;
 }
 
 .btn-facebook:hover, .btn-facebook:focus, .btn-facebook:active {
-  color: #344e86;
+  color: #626875;
 }
 
 .btn-google {
@@ -7246,8 +7246,12 @@ Created using IcoMoon - icomoon.io
 
 /* Footer */
 /* Social button style */
-.cc-facebook:hover i {
-  color: #3b5998;
+.cc-github:hover i {
+  color: #000000;
+}
+
+.cc-linkedin:hover i{
+  color:#0077B5;
 }
 
 .cc-twitter:hover i {
