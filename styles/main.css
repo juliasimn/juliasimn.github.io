@@ -4635,6 +4635,21 @@ Created using IcoMoon - icomoon.io
           box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
 }
 
+.card_small {
+  border: 0;
+  border-radius: 0.1875rem;
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 20px;
+  -webkit-box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
+          box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
+}
+.card_small .card_small-body {
+  min-height: 150px;
+}
+
 .card .card-body {
   min-height: 190px;
 }
@@ -7103,10 +7118,6 @@ Created using IcoMoon - icomoon.io
   width: 180px;
   position: absolute;
   left: 0;
-  -webkit-animation: pulsate 1.6s ease-out;
-          animation: pulsate 1.6s ease-out;
-  -webkit-animation-iteration-count: infinite;
-          animation-iteration-count: infinite;
   opacity: 0.0;
   z-index: 99;
 }
@@ -7188,6 +7199,22 @@ Created using IcoMoon - icomoon.io
   color: #fff;
 }
 
+/* Education Style */
+.cc-courses .cc-courses-header {
+  padding-top: 50px;
+  padding-right: 0;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.cc-projects .cc-projects-header {
+  padding-top: 50px;
+  padding-right: 0;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+}
 /* References Style */
 .cc-reference .card {
   padding: 40px;
